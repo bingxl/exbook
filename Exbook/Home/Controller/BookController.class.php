@@ -229,7 +229,7 @@
 			
 			function readcollect($page,$row,$tell,$field){
 				$m = M('ubook');//
-				$result['data'] = $m->field("$field")->alias('u')->join('right join gc_book b on u.bid=b.bid')->where('b.bid in (select bid from gc_collect where tell='.$tell.')')->limit(($page-1)*$row,$row)->select();
+				$result['data'] = $m->field("$field")->alias('u')->join('right join gc_book b on u.bid=b.bid')->where('u.id in (select bid from gc_collect where tell='.$tell.')')->limit(($page-1)*$row,$row)->select();
 				$result['count'] = $m->alias('u')->join('right join gc_book b on u.bid=b.bid')->where('b.bid in (select bid from gc_collect where tell='.$tell.')')->count();
 				
 				return $result;
@@ -243,7 +243,7 @@
 			}else{
 				$result = readcollect($page,$row,$tell,$field);
 			}
-			//var_dump( $result );
+		//	var_dump( $result );
 			$this->ajaxReturn($result);
 		}
 		
