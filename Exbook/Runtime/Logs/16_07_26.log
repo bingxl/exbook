@@ -1,0 +1,84 @@
+[ 2016-07-26T07:56:47+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/11
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.011649s ]
+
+[ 2016-07-26T07:57:00+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/11/page/3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001430s ]
+
+[ 2016-07-26T07:57:07+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/11/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+
+[ 2016-07-26T07:57:29+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/11/page/3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+
+[ 2016-07-26T07:57:30+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/11
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+
+[ 2016-07-26T07:57:57+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/11/page/3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+
+[ 2016-07-26T07:57:58+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/11/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+
+[ 2016-07-26T07:58:06+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+
+[ 2016-07-26T07:58:39+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+
+[ 2016-07-26T07:58:48+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001609s ]
+
+[ 2016-07-26T08:02:46+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+
+[ 2016-07-26T08:03:02+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+
+[ 2016-07-26T08:03:03+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+
+[ 2016-07-26T08:03:19+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001861s ]
+
+[ 2016-07-26T08:28:11+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+
+[ 2016-07-26T08:28:57+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+
+[ 2016-07-26T10:40:35+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+
+[ 2016-07-26T10:40:52+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2/read/all
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001869s ]
+
+[ 2016-07-26T10:41:04+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2/type/all
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001444s ]
+
+[ 2016-07-26T10:41:12+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/row/5/page/2/type/yard
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+
+[ 2016-07-26T10:41:23+08:00 ] ::1 /thinkphp/Exbook.php/Home/Book/read/type/yard
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001452s ]
+

@@ -1,0 +1,28 @@
+[ 2016-07-23T00:02:54+08:00 ] ::1 /thinkphp/exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+
+[ 2016-07-23T00:03:04+08:00 ] ::1 /thinkphp/exbook.php/Home/book/add/num/4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+
+[ 2016-07-23T12:40:48+08:00 ] ::1 /thinkphp/exbook.php/Home/book/add/num/4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001876s ]
+
+[ 2016-07-23T12:42:30+08:00 ] ::1 /thinkphp/exbook.php/Home/book/add/num/4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+
+[ 2016-07-23T12:43:05+08:00 ] ::1 /thinkphp/exbook.php/Home/book/add/num/4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+
+[ 2016-07-23T12:50:38+08:00 ] ::1 /thinkphp/exbook.php/Home/book/add/num/4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001827s ]
+
+[ 2016-07-23T17:12:27+08:00 ] ::1 /thinkphp/exbook.php/Home/book/add/num/4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.008761s ]
+

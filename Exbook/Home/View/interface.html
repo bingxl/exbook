@@ -1,0 +1,85 @@
+1.获取用户信息返回数据,登录后传入手机号才能获取
+	get或post方式传入 tell参数
+	地址：http://182.254.148.178/exbook.php/Home/User/read
+	{ 
+		"state":true, 
+		"msg":"\u8bfb\u53d6\u6210\u529f",
+		"data":
+			{
+				"tell":"15002955935",
+				"nickname":"\u7a3b\u8349\u4ebalx",
+				"address":"\u897f\u7535\u5357\u6821\u533a",
+				"school":"\u897f\u7535",
+				"email":"2282152858@qq.com",
+				"qq":"2147483647",
+				"wechat":"",
+				"sex":null,
+				"head":null,//头像图片地址
+				"type":null,
+				"yard":null,//学院
+				"major":null,//专业
+				"uname":"",//真是姓名
+				"class":"0"
+			}
+	}
+	
+2.登陆
+地址http://182.254.148.178/exbook.php/Home/User/login
+传入 tell , pwd
+返回数据：
+	{
+		"state":true,
+		"msg":"\u767b\u5f55\u6210\u529f"
+	}
+	
+3.图片上传功能：
+地址：http://182.254.148.178/exbook.php/Home/Index/upload
+传入参数：type=book或者head,head为用户头像此时需传入tell既用户的手机号
+	type 为book时不需要其它字段，上传失败则返回，可能还有
+	{
+		"state":true,
+		"msg":"\u767b\u5f55\u6210\u529f",
+		'data':null  //(此字段可能有可能没有，若是不存在则是参数出错，存在则是上传过程出问题)
+	}
+成功则返回
+	{
+		"state":"teue",
+		"msg":"\u4e0a\u4f20\u6210\u529f",
+		"data":
+			{
+				"img":"http:\/\/182.254.148.178\/Public\/Uploads\/img\/head\/15002955935.jpg" //（此为图片上传后的位置，json输出时被转义，所以用时需要反转义）
+			}
+	}
+
+4.注册功能：http://182.254.148.178/exbook.php/Home/User/register
+上传字段
+			手机:<input type='text' name='tell'><br />
+			密码:<input type='password' name='pwd'><br />
+			昵称:<input type='text' name='nickname'><br />
+			姓名:<input type='text' name='uname'><br />
+			班级:<input type='text' name='class'><br />
+			住址:<input type='text' name='address'><br />
+			学校:<input type='text' name='school'><br />
+			邮箱:<input type='text' name='email'><br />
+			Q&nbsp;Q:<input type='text' name='qq'><br />
+			微信:<input type='text' name='wechat'><br />
+			性别:<input type='text' name='sex'><br />
+			头像:<input type='text' name='head'><br />
+			分类:<input type='text' name='type'><br />
+			学院:<input type='text' name='yard'><br />
+			专业:<input type='text' name='major'><br />
+	手机、密码是必填项，其余选填;
+返回数据
+	{
+		"state":true,
+		"msg":"\u6dfb\u52a0\u6210\u529f"
+	}
+
+
+书籍
+1.获取书籍http://182.254.148.178/Exbook.php/Home/Book/read/
+	传入'tradetype','bname','bid','classify',type(all/yard)
+	
+	type:all,yard,
+	返回数组：data部分是查询的有一部分数据，count部分是查询结果数
+	获取所有可以借或可卖的数传入tradetype参数，值为借/卖

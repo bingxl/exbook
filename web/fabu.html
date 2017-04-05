@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>发布</title>
+    <link rel="stylesheet" type="text/css" href="css/foundation.min.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+    <link rel="stylesheet" type="text/css" href="css/fabu.css"/>
+</head>
+<body>
+<div class="top-bar">
+    <div class="top-bar-title">
+        <span data-responsive-toggle="responsive-menu" data-hide-for="medium">
+            <button class="menu-icon" type="button" data-toggle></button>
+        </span>
+        <a href="index.html"><img src="img/logo.png" style="height:28px;width:156px;margin-right:20px;"/></a>
+    </div>
+    <div id="responsive-menu">
+        <div class="top-bar-left">
+            <ul class="dropdown menu" data-dropdown-menu>
+                <li><a href="index.html">首页</a></li>
+                <li id="clicked"><a href="fabu.html">发布</a></li>
+                <li><a href="">活动</a></li>
+                <li><a href="">我的书架</a></li>
+            </ul>
+        </div>
+        <div class="top-bar-right">
+            <ul class="menu">
+                <li><input type="search" placeholder="专业、 书籍、 作者"/></li>
+                <li><a href=""><img src="img/icon_search.png"/></a></li>
+                <li><a href="enter.html">登录/注册</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="row" id="fabu-body">
+    <div class="columns medium-2">
+        <a>aa</a>
+    </div>
+    <div class="columns medium-8 fabuBody">
+        <div id="bo-top">
+            <button id="coLoad" class="upload-clicked">普通上传</button>
+            <button id="quLoad">一键上传</button>
+        </div>
+            <table class="bo-body1" cellpadding="80" border="0" frame="void">
+                <form id="fabuForm">
+                <tr>
+                    <td><span>书名</span><input name="book-name" type="text" placeholder="请填写书名"/></td>
+                    <td rowspan="2"><span>详细介绍</span><textarea name="introduce" rows="3.5"  placeholder="可以描述商品价格是否可面议，商品亮点，以及是否有瑕疵等"></textarea></td>
+                </tr>
+                <tr><td bgcolor="#ffffff">
+                    <span>类别</span>
+                    <select name="category">
+                        <option value="教材">教材</option>
+                        <option value="软件类">课外图书类</option>
+                        <option value="硬件类">硬件类</option>
+                        <option value="工具类">工具类</option>
+                    </select>
+                </td></tr>
+                <tr>
+                    <td><span>新旧</span>
+                        <select name="new" style="width:100px">
+                            <option value="全新">全新</option>
+                            <option value="九成新">九成新</option>
+                            <option value="七成新">七成新</option>
+                            <option value="较旧">较旧</option>
+                        </select>
+                    </td>
+                    <td><span>交易地点</span><input type="text" name="place"/></td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff"><span>售价</span><input type="number" name="price" style="width:100px"/></td>
+                </tr>
+                </form>
+                <tr bgcolor="#ffffff">
+                    <td colspan="2">
+                        <span>封面</span>
+                        <form id="imgForm" enctype="multipart/form-data" runat="server">
+                            <a href="javascript:;" class="_button"><input type="file" name="cover" accept="image/*"/>选择图片</a>
+                            <span id="mes"></span>
+                        </form></td>
+                </tr>
+                <tr><td colspan=2  bgcolor="#ffffff" align="center"><button class="_button" id="fabuButton">发布</button></td></tr>
+            </table>
+
+        <div id="_quick" style="background-color:#fff;width:700px;height:400px;display:none">
+           <h1>仅供测试，后期会添加相应内容</h1>
+        </div>
+    </div>
+    <div class="columns medium-2"></div>
+</div>
+
+<div class="row" id="bottom">
+    <div class="columns small-6 medium-3" id="one">
+        <img src="img/logo.png" style="height:28px;width:156px"/>
+        <p>一支立足于西电，以让大家更方便更实惠地找到自己需要的书为目标的青年小分队</p>
+    </div>
+    <div class="columns small-6 medium-3 two">
+        <h5>联系我们</h5>
+        <p>邮箱：adfbg@163.com<br/>官方QQ群：12345678</p>
+    </div>
+    <div class="columns small-6 medium-3 two">
+        <h5>EXBOOK安卓客户端</h5>
+        <img src="img/qr-code.jpg" style="height:110px;width:120px;margin-left:20px"/>
+    </div>
+    <div class="columns small-6 medium-3 two">
+        <h5>友情链接</h5>
+        <a href="http://www.xidian.cc/" target="_blank"><p>西电导航</p></a>
+        <a href="http://jwc.xidian.edu.cn/" target="_blank"><p>西电教务处</p></a>
+    </div>
+</div>
+
+
+<script src="js/vendor/jquery.min.js"></script>
+<script src="js/vendor/foundation.min.js"></script>
+<script src="js/fabu.js" charset="gb2312"></script>
+<script>
+    $(document).foundation();
+</script>
+</body>
+</html>

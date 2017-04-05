@@ -1,0 +1,12 @@
+[ 2017-02-26T02:37:35+08:00 ] 119.147.207.158 /exbook.php/Home/Book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-02-26T17:04:38+08:00 ] 113.134.39.20 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2017-02-26T19:33:27+08:00 ] 101.226.125.105 /exbook.php/Home/Book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+

@@ -1,0 +1,272 @@
+[ 2016-10-20T08:31:31+08:00 ] 223.104.11.101 /exbook.php/Home/User/login/tell/15002955935/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-10-20T08:31:43+08:00 ] 223.104.11.101 /exbook.php/Home/User/login/tell/15002955930/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-10-20T08:31:51+08:00 ] 223.104.11.101 /exbook.php/Home/User/login/tell/15002955935/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-10-20T08:31:57+08:00 ] 223.104.11.101 /exbook.php/Home/User/login/tell/15002955935/pwd/xb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-20T08:32:04+08:00 ] 223.104.11.101 /exbook.php/Home/User/login/tell/15002955930/pwd/xb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2016-10-20T08:32:43+08:00 ] 223.104.11.101 /exbook.php/Home/User/login/tell/15002955930/pwd/xb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2016-10-20T08:33:17+08:00 ] 223.104.11.101 /exbook.php/Home/User/login/tell/15002955930/pwd/xb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-20T08:33:51+08:00 ] 223.104.11.101 /exbook.php/Home/User/read/tell/15002955930/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2016-10-20T08:34:01+08:00 ] 101.226.66.180 /exbook.php/Home/User/read/tell/15002955930
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2016-10-20T08:34:11+08:00 ] 223.104.11.101 /exbook.php/Home/User/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2016-10-20T08:34:31+08:00 ] 112.65.193.14 /exbook.php/Home/User/login/tell/15002955935/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+
+[ 2016-10-20T08:34:43+08:00 ] 180.153.206.17 /exbook.php/Home/User/login/tell/15002955930/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2016-10-20T08:34:57+08:00 ] 101.226.66.181 /exbook.php/Home/User/login/tell/15002955935/pwd/xb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2016-10-20T08:35:04+08:00 ] 180.153.201.15 /exbook.php/Home/User/login/tell/15002955930/pwd/xb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2016-10-20T08:35:36+08:00 ] 223.104.11.101 /exbook.php/Home/User/login/tell/15002955930/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-20T08:35:59+08:00 ] 223.104.11.101 /exbook.php/Home/User/read/tell/15002955930
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2016-10-20T08:36:51+08:00 ] 101.226.99.197 /exbook.php/Home/User/read/tell/15002955930
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-10-20T08:36:51+08:00 ] 180.153.201.66 /exbook.php/Home/User/read/tell/15002955930
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000022s ]
+
+[ 2016-10-20T08:36:51+08:00 ] 180.153.214.199 /exbook.php/Home/User/read/tell/15002955930
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+
+[ 2016-10-20T08:37:11+08:00 ] 101.226.33.224 /exbook.php/Home/User/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-10-20T10:27:26+08:00 ] 223.104.11.108 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-10-20T10:27:29+08:00 ] 223.104.11.108 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+
+[ 2016-10-20T11:32:27+08:00 ] 180.153.163.190 /exbook.php/Home/Index/getType
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2016-10-20T14:45:04+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-10-20T14:45:07+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-10-20T15:47:08+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+
+[ 2016-10-20T15:47:12+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-10-20T15:47:36+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-20T15:47:39+08:00 ] 113.140.11.121 /exbook.php/Home/User/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2016-10-20T15:47:54+08:00 ] 113.140.11.121 /exbook.php/Home/Index/upload
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2016-10-20T15:47:55+08:00 ] 113.140.11.121 /exbook.php/Home/User/register/update
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2016-10-20T15:48:01+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-20T15:48:03+08:00 ] 113.140.11.121 /exbook.php/Home/User/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2016-10-20T15:48:06+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2016-10-20T22:55:23+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2016-10-20T22:55:26+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2016-10-20T22:56:13+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-20T22:56:16+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-10-20T22:57:29+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2016-10-20T22:57:33+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2016-10-20T22:57:38+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2016-10-20T22:57:46+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2016-10-20T22:57:48+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2016-10-20T22:57:50+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-10-20T22:57:51+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2016-10-20T22:57:53+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2016-10-20T22:57:54+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-10-20T22:57:55+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+
+[ 2016-10-20T22:57:57+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2016-10-20T22:57:59+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2016-10-20T22:58:01+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2016-10-20T22:58:03+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2016-10-20T22:58:05+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2016-10-20T22:58:07+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2016-10-20T22:58:08+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2016-10-20T22:59:49+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2016-10-20T22:59:53+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2016-10-20T23:01:27+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-10-20T23:01:31+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2016-10-20T23:02:17+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2016-10-20T23:02:20+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2016-10-20T23:02:49+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2016-10-20T23:02:52+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2016-10-20T23:03:28+08:00 ] 113.140.11.121 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-20T23:03:32+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2016-10-20T23:03:52+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-10-20T23:04:01+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-10-20T23:04:04+08:00 ] 113.140.11.121 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+

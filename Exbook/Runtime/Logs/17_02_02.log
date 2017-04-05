@@ -1,0 +1,16 @@
+[ 2017-02-02T20:47:23+08:00 ] 120.10.221.145 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-02-02T20:47:23+08:00 ] 120.10.221.145 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2017-02-02T20:47:31+08:00 ] 120.10.221.145 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-02-02T23:11:24+08:00 ] 180.163.2.117 /exbook.php/Home/Book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+

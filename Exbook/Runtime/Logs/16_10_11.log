@@ -1,0 +1,8 @@
+[ 2016-10-11T13:12:37+08:00 ] 223.104.11.108 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-10-11T13:12:41+08:00 ] 223.104.11.108 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+

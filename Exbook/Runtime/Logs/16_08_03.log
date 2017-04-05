@@ -1,0 +1,64 @@
+[ 2016-08-03T16:17:30+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.035866s ]
+
+[ 2016-08-03T16:17:50+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/1/tell/18717344478
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+
+[ 2016-08-03T16:18:31+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/1/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+
+[ 2016-08-03T16:20:09+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/1/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+
+[ 2016-08-03T16:20:23+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/tell/2638]
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+
+[ 2016-08-03T16:20:54+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/tell/2638]
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001054s ]
+
+[ 2016-08-03T16:21:34+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/tell/2638]
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+
+[ 2016-08-03T16:21:35+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/tell/2638]
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001677s ]
+
+[ 2016-08-03T16:21:58+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/tell/2638]
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001742s ]
+
+[ 2016-08-03T16:21:59+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/tell/2638]
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+
+[ 2016-08-03T16:22:09+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+
+[ 2016-08-03T16:22:15+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+
+[ 2016-08-03T16:22:34+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.002588s ]
+
+[ 2016-08-03T16:22:37+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/tell/2638]
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+
+[ 2016-08-03T16:22:39+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2/tell/2638]
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+
+[ 2016-08-03T16:22:46+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/lend/id/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.002514s ]
+

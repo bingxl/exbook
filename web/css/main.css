@@ -1,0 +1,54 @@
+.orbit .column {
+  padding: 0; }
+.orbit ul {
+  padding: 0;
+  margin-top: 0;
+  position: absolute;
+  z-index: 0; }
+  .orbit ul li > img {
+    height: 480px; }
+.orbit .orbit-bullets {
+  margin-top: 27rem; }
+.orbit .orbit-bullets button {
+  border: #468bca 1px solid;
+  border-radius: 3px;
+  height: 8px;
+  width: 55px; }
+
+#my-bar {
+  height: 60px;
+  padding: 18px 40px 0 40px;
+  border-bottom: 2px solid #b5b5b5; }
+
+#my-bar-left a {
+  color: #050a21;
+  font-size: 18px;
+  margin-top: -6px; }
+
+#my-bar-right span {
+  color: #b5b5b5;
+  font-size: 18px;
+  padding: 14px 15px;
+  cursor: pointer; }
+
+.my-focus {
+  color: #3399ff;
+  border-bottom: 3px solid #3399ff; }
+
+#my-book, #my-book-lend, #my-book-sell {
+  padding: 10px 82px; }
+  #my-book .columns, #my-book-lend .columns, #my-book-sell .columns {
+    padding: 20px 65px; }
+    #my-book .columns img, #my-book-lend .columns img, #my-book-sell .columns img {
+      height: 180px;
+      width: 130px;
+      margin: 18px 0; }
+    #my-book .columns ul > li, #my-book-lend .columns ul > li, #my-book-sell .columns ul > li {
+      display: block; }
+      #my-book .columns ul > li a, #my-book-lend .columns ul > li a, #my-book-sell .columns ul > li a {
+        font-size: 16px;
+        color: #050a21; }
+      #my-book .columns ul > li .price, #my-book-lend .columns ul > li .price, #my-book-sell .columns ul > li .price {
+        color: #ff7040; }
+
+/*# sourceMappingURL=main.css.map */

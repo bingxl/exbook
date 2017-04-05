@@ -1,0 +1,20 @@
+[ 2016-09-19T16:43:46+08:00 ] 223.104.11.115 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2016-09-19T16:43:52+08:00 ] 223.104.11.115 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2016-09-19T16:43:58+08:00 ] 223.104.11.115 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+
+[ 2016-09-19T16:44:02+08:00 ] 223.104.11.115 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+
+[ 2016-09-19T16:44:05+08:00 ] 223.104.11.115 /exbook.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+

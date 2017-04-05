@@ -1,0 +1,24 @@
+[ 2017-02-28T12:31:27+08:00 ] 123.138.79.12 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-02-28T12:31:36+08:00 ] 180.153.214.198 /exbook.php/Home/Book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+
+[ 2017-02-28T12:31:38+08:00 ] 123.138.79.12 /exbook.php/Home/Book/read/?tradetype=%E5%80%9F
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2017-02-28T12:31:38+08:00 ] 123.138.79.12 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-02-28T18:01:05+08:00 ] 180.163.2.118 /exbook.php/Home/Book/read/?tradetype%3D%25E5%2580%259F
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-02-28T22:25:43+08:00 ] 117.185.27.113 /exbook.php/Home/Book/read/?tradetype%253D%2525E5%252580%25259F
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+

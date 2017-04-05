@@ -1,0 +1,16 @@
+[ 2017-03-16T22:04:42+08:00 ] 123.138.79.7 /exbook.php/Home/Book/Read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-03-16T22:04:45+08:00 ] 123.138.79.7 /exbook.php/Home/Book/Read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-03-16T22:05:18+08:00 ] 123.138.79.7 /exbook.php/Home/Book/Read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-03-16T22:06:25+08:00 ] 123.138.79.7 /exbook.php/Home/Book/Read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+

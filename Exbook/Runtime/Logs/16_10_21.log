@@ -1,0 +1,12 @@
+[ 2016-10-21T19:05:38+08:00 ] 101.226.65.102 /exbook.php/Home/User/register/update
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-10-21T19:08:39+08:00 ] 101.226.125.105 /exbook.php/Home/User/register/update
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2016-10-21T19:12:38+08:00 ] 119.147.146.60 /exbook.php/Home/User/register/update
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+

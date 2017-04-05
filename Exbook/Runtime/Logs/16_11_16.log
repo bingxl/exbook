@@ -1,0 +1,32 @@
+[ 2016-11-16T21:44:58+08:00 ] 223.104.11.247 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-11-16T21:45:02+08:00 ] 223.104.11.247 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+
+[ 2016-11-16T21:45:06+08:00 ] 223.104.11.247 /exbook.php/Home/Index/getcource
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+
+[ 2016-11-16T21:45:07+08:00 ] 223.104.11.247 /exbook.php/Home/Index/getcource
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000022s ]
+
+[ 2016-11-16T21:45:07+08:00 ] 223.104.11.247 /exbook.php/Home/Index/getcource
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000022s ]
+
+[ 2016-11-16T21:45:07+08:00 ] 223.104.11.247 /exbook.php/Home/Index/getcource
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+
+[ 2016-11-16T21:45:07+08:00 ] 223.104.11.247 /exbook.php/Home/Index/getcource
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+
+[ 2016-11-16T21:45:07+08:00 ] 223.104.11.247 /exbook.php/Home/Index/getcource
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000021s ]
+

@@ -1,0 +1,20 @@
+[ 2017-03-23T00:02:24+08:00 ] 101.226.64.174 /exbook.php/Home/Book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+
+[ 2017-03-23T00:02:33+08:00 ] 101.226.125.105 /exbook.php/Home/Book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2017-03-23T15:28:29+08:00 ] 180.153.206.17 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-03-23T18:23:06+08:00 ] 180.153.211.190 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2017-03-23T20:41:21+08:00 ] 101.226.68.215 /exbook.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+

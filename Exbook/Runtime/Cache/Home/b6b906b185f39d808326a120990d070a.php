@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>there has error in this page ,

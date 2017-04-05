@@ -1,0 +1,84 @@
+[ 2017-01-14T10:03:49+08:00 ] 180.153.214.198 /exbook.php/Home/User/update
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+
+[ 2017-01-14T20:07:04+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/?tradetype=%E5%80%9F
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000014s ]
+SQL: SHOW COLUMNS FROM `gc_ubook` [ RunTime:0.000450s ]
+SQL: SELECT u.id,u.bid,u.num,u.price,u.tradetype,u.tell,u.type,u.introduction,u.state,u.img,b.press,b.bname,b.edition,b.ISBN,b.author,b.mprice,b.title FROM gc_ubook u right join gc_book b on b.bid=u.bid WHERE ( u.tradetype = '借' ) ORDER BY u.id desc LIMIT 0,10   [ RunTime:0.000495s ]
+SQL: SELECT COUNT(*) AS tp_count FROM gc_ubook u right join gc_book b on b.bid=u.bid WHERE ( u.tradetype = '借' ) LIMIT 1   [ RunTime:0.000281s ]
+
+[ 2017-01-14T20:07:05+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/?tradetype=%E4%B9%B0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000012s ]
+SQL: SHOW COLUMNS FROM `gc_ubook` [ RunTime:0.000403s ]
+SQL: SELECT u.id,u.bid,u.num,u.price,u.tradetype,u.tell,u.type,u.introduction,u.state,u.img,b.press,b.bname,b.edition,b.ISBN,b.author,b.mprice,b.title FROM gc_ubook u right join gc_book b on b.bid=u.bid WHERE ( u.tradetype = '买' ) ORDER BY u.id desc LIMIT 0,10   [ RunTime:0.000373s ]
+SQL: SELECT COUNT(*) AS tp_count FROM gc_ubook u right join gc_book b on b.bid=u.bid WHERE ( u.tradetype = '买' ) LIMIT 1   [ RunTime:0.000209s ]
+
+[ 2017-01-14T20:07:06+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000011s ]
+SQL: SHOW COLUMNS FROM `gc_ubook` [ RunTime:0.000435s ]
+SQL: SELECT u.id,u.bid,u.num,u.price,u.tradetype,u.tell,u.type,u.introduction,u.state,u.img,b.press,b.bname,b.edition,b.ISBN,b.author,b.mprice,b.title FROM gc_ubook u right join gc_book b on b.bid=u.bid ORDER BY u.id desc LIMIT 0,10   [ RunTime:0.000077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM gc_ubook u right join gc_book b on b.bid=u.bid LIMIT 1   [ RunTime:0.000061s ]
+
+[ 2017-01-14T20:07:07+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000013s ]
+SQL: SHOW COLUMNS FROM `gc_ubook` [ RunTime:0.000378s ]
+SQL: SELECT u.id,u.bid,u.num,u.price,u.tradetype,u.tell,u.type,u.introduction,u.state,u.img,b.press,b.bname,b.edition,b.ISBN,b.author,b.mprice,b.title FROM gc_ubook u right join gc_book b on b.bid=u.bid ORDER BY u.id desc LIMIT 0,10   [ RunTime:0.000090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM gc_ubook u right join gc_book b on b.bid=u.bid LIMIT 1   [ RunTime:0.000058s ]
+
+[ 2017-01-14T20:23:06+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-01-14T20:23:27+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-01-14T20:23:30+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/?tradetype=%E5%80%9F
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-01-14T20:23:31+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/?tradetype=%E4%B9%B0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+
+[ 2017-01-14T20:23:32+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/?tradetype=%E5%80%9F
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-01-14T20:23:33+08:00 ] 61.53.131.147 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2017-01-14T20:24:34+08:00 ] 117.136.16.179 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+
+[ 2017-01-14T20:29:13+08:00 ] 117.136.16.179 /exbook.php/Home/Book/read/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+

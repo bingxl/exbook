@@ -1,0 +1,256 @@
+[ 2016-08-01T13:26:11+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.011693s ]
+
+[ 2016-08-01T13:26:21+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+
+[ 2016-08-01T13:26:35+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/20
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001164s ]
+
+[ 2016-08-01T13:26:44+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/5
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+
+[ 2016-08-01T13:27:40+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/20
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+
+[ 2016-08-01T13:29:12+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/20
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.023187s ]
+
+[ 2016-08-01T13:29:15+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/20
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+
+[ 2016-08-01T13:30:11+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/20
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001196s ]
+
+[ 2016-08-01T13:30:13+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/20
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+
+[ 2016-08-01T13:37:05+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/20
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+
+[ 2016-08-01T15:09:06+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+
+[ 2016-08-01T15:09:14+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+
+[ 2016-08-01T15:10:42+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+
+[ 2016-08-01T15:36:40+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001306s ]
+
+[ 2016-08-01T15:38:08+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2016-08-01T15:38:52+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+
+[ 2016-08-01T15:38:53+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+
+[ 2016-08-01T20:11:13+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.011858s ]
+
+[ 2016-08-01T23:06:48+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001908s ]
+
+[ 2016-08-01T23:07:18+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001156s ]
+
+[ 2016-08-01T23:07:19+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-08-01T23:08:30+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-08-01T23:09:35+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+
+[ 2016-08-01T23:12:02+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+
+[ 2016-08-01T23:15:15+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+
+[ 2016-08-01T23:15:28+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.002133s ]
+
+[ 2016-08-01T23:15:59+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+
+[ 2016-08-01T23:17:28+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+
+[ 2016-08-01T23:17:28+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+
+[ 2016-08-01T23:17:30+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+
+[ 2016-08-01T23:18:11+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001700s ]
+
+[ 2016-08-01T23:18:13+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+
+[ 2016-08-01T23:18:41+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001790s ]
+
+[ 2016-08-01T23:19:07+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+
+[ 2016-08-01T23:21:37+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001346s ]
+
+[ 2016-08-01T23:21:41+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+
+[ 2016-08-01T23:21:42+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001895s ]
+
+[ 2016-08-01T23:23:03+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+
+[ 2016-08-01T23:23:05+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+
+[ 2016-08-01T23:25:46+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+
+[ 2016-08-01T23:25:48+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2016-08-01T23:25:49+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+
+[ 2016-08-01T23:25:52+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+
+[ 2016-08-01T23:25:52+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/read/bid/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001916s ]
+
+[ 2016-08-01T23:25:53+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+
+[ 2016-08-01T23:25:59+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+
+[ 2016-08-01T23:26:02+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+
+[ 2016-08-01T23:26:06+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-08-01T23:26:08+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001666s ]
+
+[ 2016-08-01T23:26:43+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+
+[ 2016-08-01T23:28:12+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-08-01T23:28:35+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.002076s ]
+
+[ 2016-08-01T23:28:36+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001942s ]
+
+[ 2016-08-01T23:33:40+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+
+[ 2016-08-01T23:34:05+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001054s ]
+
+[ 2016-08-01T23:34:12+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+
+[ 2016-08-01T23:36:10+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+
+[ 2016-08-01T23:36:11+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+
+[ 2016-08-01T23:36:14+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001642s ]
+
+[ 2016-08-01T23:36:19+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001599s ]
+
+[ 2016-08-01T23:36:20+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+
+[ 2016-08-01T23:37:17+08:00 ] ::1 /thinkphp/Exbook.php/Home/book/add/isbn/106170
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+
+[ 2016-08-01T23:37:20+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+
+[ 2016-08-01T23:37:21+08:00 ] ::1 /thinkphp/Exbook.php/Home/user/login/tell/18717344478/pwd/lxb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+

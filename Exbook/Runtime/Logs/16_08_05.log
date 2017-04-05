@@ -1,0 +1,8 @@
+[ 2016-08-05T21:25:18+08:00 ] ::1 /thinkphp/exbook.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+
+[ 2016-08-05T21:27:09+08:00 ] ::1 /thinkphp/exbook.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001962s ]
+

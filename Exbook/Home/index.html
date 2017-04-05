@@ -1,0 +1,24 @@
+<meta charset="utf8">
+书：
+`gc_book`(`bid`, `bname`, `press`, `edition`, `ISBN`, `author`, `mprice`, `img`, `title`)
+title用分号分隔
+所有设及到的书籍，确定bid
+
+`gc_ubook`(`id`, `bid`, `num`, `price`, `tradetype`, `tell`, `type`, `introduction`, `state`, `img`)
+交易类型，数量，类型，借后num减一只有num为0时 state才改变，bid通过书名，出版社，作者，确定
+
+绑定专业和书籍
+gc_cource 管理接口
+`class`, `yard`, `cource`, `major`, `grade`, `bid`
+
+
+收藏表
+`gc_collect`(`id`, `uid`, `bid`, `remark`)
+
+用户表
+`gc_user`(`uid`, `tell`, `pwd`, `nickname`, `address`, `time`, `school`, `email`, `qq`, `wechat`, `sex`, `head`, `type`, `yard`, `major`)
+
+添加书籍时先查看book里是否有，无则先添加到book
+num默认为一，借书时先判断是否为1是则借出，state为预借，num为0，否则直接num减一，介绍内容不能超过五十字
+交易类型有：借，卖，
+type有课外，考试，笔记
